@@ -1,0 +1,50 @@
+.radio {
+    background-color: #1E272E;
+    padding: 16px;
+    text-align: center;
+}
+
+.radio h3 {
+    font-size: 24px;
+    color: #ffffff;
+    margin: 0;
+    margin-top: 16px;
+    position: relative;
+    top: 8px;
+    background-color: #1E272E;
+    width: 276px;
+}
+
+.radio .ui.card {
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+    background: #C7D2DA;
+}
+
+.radio .ui.card img {
+    border: none;
+    padding: 16px;
+} 
+
+.radio .ui.card>.content {
+    border:none;
+}
+
+.radio .divder {
+    border-bottom: 2px solid #ffffff;
+    margin-bottom: 16px;
+}
+
+.radio .radio_view_all {
+    font-size: 16px;
+    font-weight: bold;
+    padding: 16px;
+    display: inline-block;
+    background: #ffffff;
+    margin-top: 16px;
+}
+
+.radio .ui.card>.image {
+    background: none;
+}

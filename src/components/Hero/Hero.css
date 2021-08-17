@@ -1,0 +1,18 @@
+.hero .hero_image {
+    height: 100%;
+    width: 100%;
+    background: gainsboro;
+    max-height: 326px;
+}
+
+.hero .hero_title {
+    font-size: 36px;
+}
+
+.hero .hero_category {
+    font-weight: BOLD;
+}
+
+.hero .hero_image {
+    margin-top: 16px;
+}
