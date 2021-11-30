@@ -12,13 +12,10 @@ function Home() {
       <div>
         <Banner />
         <Container>
-          <br />
           <Hero />
           <LongAd />
         </Container>
-        <br />
         <Radio />
-        <br />
         <Latest />
       </div>
     );
